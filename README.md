@@ -14,5 +14,5 @@ Kullanıcı Yetki Tanımlama: Farklı kullanıcı rolleri için yetki ayarları.
 Alert Sistem Mantığı: Uygulama içi uyarı ve bildirim sistemleri.
 
 
-[HES Kodu Ekran Görüntüsü](https://github.com/{farukerde}/{HES-CODE-APP}/C:\Users\lenovo\OneDrive\Masaüstü\hes_code ekran görüntüsü.png)
+
 
